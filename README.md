@@ -3,6 +3,8 @@
 - GTMDS
 - PR6
 - ATK
+- cs-hvh.xyz
+- CS2 File Syncer
 
 # I work with
 
@@ -10,7 +12,7 @@
 - PHP/MYSQL
 - C#/C++
 - LUA
-
+- JAVA
 
 ## Contacts
 
