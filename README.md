@@ -3,7 +3,7 @@
 - GTMDS
 - PR6
 - ATK
-- cs-hvh.xyz
+- cs2-hvh.xyz
 - CS2 File Syncer
 
 # I work with
