@@ -7,7 +7,7 @@
 ![GTMDS](https://img.shields.io/badge/GTMDS-000000?style=for-the-badge)
 ![PR6](https://img.shields.io/badge/PR6-4B0082?style=for-the-badge)
 ![ATK](https://img.shields.io/badge/ATK-006400?style=for-the-badge)
-![KSHVH](https://img.shields.io/badge/KS-HVH-FF4500?style=for-the-badge)
+![KSHVH](https://img.shields.io/badge/KSHVH-FF4500?style=for-the-badge)
 
 </div>
 
